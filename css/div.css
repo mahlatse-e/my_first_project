@@ -1,0 +1,17 @@
+
+DIV.container1{
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
+	
+	IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+div.container5 {
+  height: 10em;
+  display: flex;
+  align-items: center }
+div.container5 p {
+  margin: 0 }
