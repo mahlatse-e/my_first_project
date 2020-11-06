@@ -27,7 +27,7 @@
 	   <h6> <a href="add_posts.php" class="list-group-item">Add New Posts</a></h6>
    </div> 
  <div class="col-md-3">
-       <h2><a href="index.php?logout"  class="list-group-item"><i class="fa fa-fw fa-power-off">logout</i></a></h2>
+       <h2><a href="index.php?logout"  class="list-group-item"><i><img src="bootstrap/power.png" alt="" width="50px">logout</i></a></h2>
        <!--h6><a href="index.php?logout"  class="list-group-item">logout</a></h6-->
 	  <h2><a href="settings.php" class="list-group-item"><span class="glyphicon glyphicon-cog" aria-hidden="true">settings</span></a></h4>
        <h4><a href="change_password.php" class="list-group-item">change password</a></h6>
